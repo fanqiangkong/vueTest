@@ -1,1 +1,2 @@
-# 尝试用vue写一个nodejs社区网站，
+# vue test
+尝试用vue写一个nodejs社区网站，
